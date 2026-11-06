@@ -108,3 +108,40 @@ province: some, such as British Columbia, Ontario and Prince Edward Island,
 require pay ranges in public postings, while others, including Alberta, do
 not. A posting without a range is not a warning sign by itself; check the
 current rules for the province rather than relying on this list.
+
+
+### 2. Resume tailoring
+
+- Compare the posting's keywords with each resume version in the profile and
+  recommend the closest one (`references/cv-tracks-template.md` describes how
+  versions are defined).
+- When the user supplies several resume versions, compare them side by side:
+  give each a short fit summary, recommend one, and list any facts that
+  differ between versions (dates, titles, metrics).
+- Offer to: reorder bullets so posting-relevant evidence comes first; suggest
+  wording that mirrors the posting's vocabulary where the user genuinely has
+  the experience; flag bullets that are too generic or too domain-specific for
+  this role.
+- Return suggestions as before/after pairs, not a full rewrite.
+- Preserve the user's voice, metrics and chronology. Aim for one to two pages
+  on Letter-size paper; one page is common for entry-level roles. Follow the
+  profile if it says otherwise.
+- Apply Canadian resume conventions: no photo, date of birth, marital status,
+  nationality or SIN. For employers outside Canada, suggest a short line of
+  context (what the organization does, its size or sector) so a Canadian
+  recruiter can judge the experience.
+
+### 3. Cover letter: ask before drafting
+
+Do not draft a cover letter until you have asked:
+1. Which organization and role?
+2. What about this organization or role genuinely interests the user?
+3. Which experience or angle do they want to lead with?
+
+If the posting does not ask for a cover letter, say that one is often
+optional and let the user decide whether to write it.
+
+Then follow `references/cover-letter-structure.md`. By default give an outline
+with prompts for each paragraph and let the user write the prose. Offer a full
+draft only if the user asks, and label it a draft to be rewritten in their own
+voice.
