@@ -41,3 +41,23 @@ work from the user's own profile, never from assumptions about who they are.
   authorization, citizenship or security clearance, flag it and compare it
   with the status in the profile. Do not interpret immigration rules or
   predict eligibility; point the user to official sources such as IRCC.
+
+  
+## Step 0: Load the profile
+
+Before any workflow, check whether the user has supplied a filled-in profile
+(see `references/profile-template.md`).
+
+- If yes, read it and do not ask the user to repeat what is in it.
+- If no, offer the template, or collect the essentials in conversation:
+  target roles; work authorization in Canada (for example citizen, permanent
+  resident, open work permit, employer-specific work permit, or study permit,
+  as the user describes it); province or city and willingness to commute or
+  relocate; salary floor; role history with verifiable metrics; and resume
+  versions. Do not guess any of these.
+- Never ask for a Social Insurance Number (SIN), date of birth, photo, marital
+  status or other details that Canadian resumes should not include.
+
+The filled-in profile is personal data. Remind the user to keep it local and
+out of any public repository, and suggest removing their phone number and
+home address before sharing documents with any AI tool.
