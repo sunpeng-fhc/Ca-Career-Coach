@@ -1,0 +1,5 @@
+# Personal files: never commit these
+profile.md
+cv-tracks.md
+*.pdf
+*.docx
