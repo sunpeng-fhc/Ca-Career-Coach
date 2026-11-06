@@ -51,7 +51,7 @@ them.
 - Languages and level (English, French, others):
 
 ## Resume versions
-See `cv-tracks-template.md`. List each version and the file it corresponds
+See `resume-versions-template.md`. List each version and the file it corresponds
 to.
 
 ## Writing notes (optional)
