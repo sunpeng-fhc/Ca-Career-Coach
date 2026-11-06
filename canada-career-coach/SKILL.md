@@ -112,7 +112,7 @@ current rules for the province rather than relying on this list.
 ### 2. Resume tailoring
 
 - Compare the posting's keywords with each resume version in the profile and
-  recommend the closest one (`references/cv-tracks-template.md` describes how
+  recommend the closest one (`references/resume-versions-template.md` describes how
   versions are defined).
 - When the user supplies several resume versions, compare them side by side:
   give each a short fit summary, recommend one, and list any facts that
@@ -206,7 +206,7 @@ profile.
 
 Read only the one that fits the task:
 - `references/profile-template.md`: fields for the user's own profile
-- `references/cv-tracks-template.md`: how to define and compare resume
+- `references/resume-versions-template.md`: how to define and compare resume
   versions
 - `references/cover-letter-structure.md`: five-paragraph structure and the
   questions to ask first
