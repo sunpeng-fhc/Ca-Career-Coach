@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.svg" alt="Canada Career Coach: audit with AI, author it yourself" width="100%">
+</p>
 # Canada Career Coach
 
 An open AI skill for Canadian job applications. It evaluates a job posting
