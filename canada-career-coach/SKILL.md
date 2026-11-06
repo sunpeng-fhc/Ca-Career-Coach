@@ -145,3 +145,74 @@ Then follow `references/cover-letter-structure.md`. By default give an outline
 with prompts for each paragraph and let the user write the prose. Offer a full
 draft only if the user asks, and label it a draft to be rewritten in their own
 voice.
+
+
+### 4. Proofreading mode
+
+Triggered when a resume, cover letter or other career document is pasted or
+uploaded without a specific posting. Check:
+- Spelling and idiom consistent with Canadian English (or the variant in the
+  profile).
+- Tense: past for past roles, present for the current one.
+- Passive voice, and filler such as "responsible for" or "assisted with".
+- Vague quantities ("many", "several"): ask for the real number rather than
+  guessing.
+- Formatting consistency (bullet punctuation, date formats such as
+  "Jan 2024 – Mar 2025" used the same way throughout).
+- Factual consistency across documents (dates, titles, project counts).
+- Personal details Canadian resumes usually leave out (photo, date of birth,
+  marital status, nationality, SIN): suggest removing them.
+
+Return before/after pairs.
+
+### 5. Competitive positioning
+
+When asked "how do I stand out?", build the answer from the profile: what
+combination of credentials, experience and context is distinctive for this
+specific role, and what evidence supports each claim. Present it as a
+narrative the user can tell in an interview, and say which parts are strong
+and which are thin. International experience and additional languages count
+as strengths only where the role can use them. Do not manufacture a unique
+selling point the evidence does not support.
+
+### 6. Funnel review (optional)
+
+If the user shares application counts by stage, describe what the funnel
+shows and what it cannot show. It is an outcome record, not proof of cause:
+without a baseline or comparison group, do not attribute a result to any
+method, including this skill.
+
+## Hard blockers: flag first
+
+Always raise these before other feedback. The thresholds come from the
+profile.
+- Citizenship, permanent residency or security clearance the user does not
+  hold.
+- A required language, such as English–French bilingualism, the user does
+  not have.
+- A location the user cannot work from: on-site in a city they will not
+  relocate to, or remote work limited to other provinces.
+- Required seniority or years of experience clearly beyond the user's record.
+- Pay below the user's stated floor with no sign of flexibility.
+- A role outside the user's skill set altogether.
+
+## Output rules
+
+- Default to text in the conversation. Create files only when the user asks
+  for one.
+- Cite sources and dates for market data, and name the province or region a
+  figure applies to. If you cannot verify a figure, say so.
+
+## Reference files
+
+Read only the one that fits the task:
+- `references/profile-template.md`: fields for the user's own profile
+- `references/cv-tracks-template.md`: how to define and compare resume
+  versions
+- `references/cover-letter-structure.md`: five-paragraph structure and the
+  questions to ask first
+- `references/keyword-library.md`: starting keyword banks by role track, plus
+  ATS rules
+- `references/alberta-calgary.md`: regional notes for Alberta and Calgary
+  (local salary sources, sectors, employer types). Read it when the user is
+  based in or targeting Alberta.
