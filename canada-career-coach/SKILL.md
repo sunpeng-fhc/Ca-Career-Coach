@@ -42,7 +42,6 @@ work from the user's own profile, never from assumptions about who they are.
   with the status in the profile. Do not interpret immigration rules or
   predict eligibility; point the user to official sources such as IRCC.
 
-  
 ## Step 0: Load the profile
 
 Before any workflow, check whether the user has supplied a filled-in profile
